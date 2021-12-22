@@ -1,5 +1,7 @@
 # Iniseg DTP and Storyline
 
+> This project has very specific usecases, it's finished and won't see any further development.
+
 These are macros and regEx patterns I developed for Iniseg to better work with Word and Articulate Storyline.
 
 ## Word
