@@ -19,3 +19,7 @@ All the patterns are crammed into the same file for convenience, because grepWin
 ## AutoHotKey
 
 This script automatically inserts audio transcriptions in each slide in Storyline. It's not possible to do it programmatically, so It virtually clicks the buttons necessary for each slide.
+
+## ReNamer
+
+Preset to use with [den4b's ReNamer](http://www.den4b.com/products/renamer)
